@@ -1,0 +1,5 @@
+{
+  "name": "CircuitMind AI",
+  "description": "AI-Driven Electronic Design Platform for automated schematic generation, PCB advisory, and collaborative hardware engineering.",
+  "requestFramePermissions": []
+}
